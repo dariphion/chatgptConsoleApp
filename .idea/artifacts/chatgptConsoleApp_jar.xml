@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact name="chatgptConsoleApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/chatgptConsoleApp_jar</output-path>
+    <root id="root">
+      <element id="archive" name="chatgptConsoleApp.jar">
+        <element id="module-output" name="chatgptConsoleApp" />
+      </element>
+      <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.8.21" />
+      <element id="library" level="project" name="Maven: org.jetbrains:annotations:13.0" />
+      <element id="library" level="project" name="Maven: com.squareup.okhttp3:okhttp:4.12.0" />
+      <element id="library" level="project" name="Maven: com.squareup.okio:okio:3.6.0" />
+      <element id="library" level="project" name="Maven: com.squareup.okio:okio-jvm:3.6.0" />
+      <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.21" />
+      <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.21" />
+      <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.9.10" />
+      <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.10.1" />
+    </root>
+  </artifact>
+</component>
